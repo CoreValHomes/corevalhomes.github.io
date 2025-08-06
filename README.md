@@ -8,22 +8,28 @@ Welcome to the official GitHub repository for [CoreVal Homes](https://corevalhom
 
 ---
 
+## 🧭 Website Pages
+
+Here’s a quick overview of the main pages on the CoreVal Homes website:
+
+- 🏠 [Home](https://corevalhomes.com)  
+- 🏗️ [Custom Home Building](https://corevalhomes.com/custom-home-building/)  
+- 🚪 [Laneway Homes](https://corevalhomes.com/laneway-homes/)  
+- 🛠️ [Home Renovations](https://corevalhomes.com/home-renovations/)  
+- 🏡 [Outdoor Studios](https://corevalhomes.com/outdoor-studios/)  
+- 🧩 [Tailored Design & Build](https://corevalhomes.com/design-build-process/)  
+- 🌱 [Sustainable Construction](https://corevalhomes.com/sustainable-construction/)  
+- 📋 [Permits & Project Management](https://corevalhomes.com/permits-project-management/)  
+- 🍽️ [Kitchen Remodeling](https://corevalhomes.com/kitchen-remodeling/)  
+- 🛁 [Bathroom Remodeling](https://corevalhomes.com/bathroom-remodeling/)  
+- 💼 [Real Estate Investment](https://corevalhomes.com/vancouver-real-estate-investment-venture/)  
+- 📞 [Contact Us](https://corevalhomes.com/contactus)
+
+---
+
 ## 🏗️ About CoreVal Homes
 
-**CoreVal Homes** is more than a construction company — we are your long-term partner in **residential development**, **laneway housing**, and **real estate investment** projects. With a BCIT-certified construction instructor on staff and decades of experience, we deliver **exceptional craftsmanship**, **transparent project management**, and investor-focused building solutions.
-
-### 🔑 Core Services
-
-- ✅ Custom Home Building in Vancouver  
-- ✅ Laneway Homes in Vancouver & Fraser Valley  
-- ✅ Full House Renovations & Remodeling  
-- ✅ Kitchen Renovation Vancouver  
-- ✅ Bathroom Renovation Vancouver  
-- ✅ Outdoor Studios & Accessory Dwelling Units (ADUs)  
-- ✅ Sustainable & Eco‑Friendly Construction  
-- ✅ Building Permits, Design, and Project Management  
-- ✅ 2-5-10 New Home Warranty Coverage  
-- ✅ Vancouver Real Estate Investment Projects
+**CoreVal Homes** is your dedicated partner in **residential construction**, **laneway housing**, and **real estate investment** projects. With a BCIT-certified construction instructor and a track record of excellence, we prioritize communication, planning, and lasting results.
 
 ---
 
@@ -33,12 +39,10 @@ Welcome to the official GitHub repository for [CoreVal Homes](https://corevalhom
 - PHP, HTML5, CSS3, JavaScript  
 - Rank Math SEO Plugin  
 - Page Generator Pro for Local SEO Landing Pages  
-- SiteGround Web Hosting  
-- Google Analytics 4 (GA4) for performance tracking
+- SiteGround Hosting  
+- Google Analytics 4 (GA4)
 
 ---
 
-## 📁 Repository Structure (for static assets or versioning)
-
-> This repo may contain a static mirror, layout files, or backup for GitHub Pages deployment.
+## 📁 Repository Structure
 
