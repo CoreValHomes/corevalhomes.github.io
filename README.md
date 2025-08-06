@@ -1,4 +1,4 @@
-# 🏡 CoreVal Homes – Custom Home Builder Vancouver & Fraser Valley
+# 🏡 CoreVal Homes – BC-Housing Certified, Fraser Valley and Vancouver Home Builder
 
 Welcome to the official GitHub repository for [CoreVal Homes](https://corevalhomes.com), a trusted **custom home builder in Vancouver** and the **Fraser Valley**. We specialize in building high-quality custom homes, laneway houses, and real estate investment projects across British Columbia.
 
